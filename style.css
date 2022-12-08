@@ -1,0 +1,15 @@
+fieldset{
+    background-color: aqua;
+}
+
+pre{
+    background-color: grey;
+    color:white;
+}
+
+h1{
+    background: linear-gradient(to right,green,red,pink,orange);
+    text-align: center;
+    color:white;
+    height: 100px;
+}
